@@ -1,0 +1,7 @@
+C:\Users\79536\source\repos\Zachet\Zachet\bin\Debug\Zachet.exe.config
+C:\Users\79536\source\repos\Zachet\Zachet\bin\Debug\Zachet.exe
+C:\Users\79536\source\repos\Zachet\Zachet\bin\Debug\Zachet.pdb
+C:\Users\79536\source\repos\Zachet\Zachet\obj\Debug\Zachet.csprojAssemblyReference.cache
+C:\Users\79536\source\repos\Zachet\Zachet\obj\Debug\Zachet.csproj.CoreCompileInputs.cache
+C:\Users\79536\source\repos\Zachet\Zachet\obj\Debug\Zachet.exe
+C:\Users\79536\source\repos\Zachet\Zachet\obj\Debug\Zachet.pdb
